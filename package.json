@@ -1,0 +1,20 @@
+{
+    "name": "project",
+    "version": "1.0.0",
+    "description": "Weather App",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "keywords": [
+        "test"
+    ],
+    "author": "Abhik Samanta",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "ejs": "^2.6.1",
+        "express": "^4.16.3",
+        "request": "^2.87.0"
+    }
+}
